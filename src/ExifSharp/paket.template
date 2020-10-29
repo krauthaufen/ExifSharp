@@ -1,0 +1,6 @@
+type project
+id ExifSharp
+authors Georg Haaser
+description
+    ExifTool Wrapper
+include-pdbs true
